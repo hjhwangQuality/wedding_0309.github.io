@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/wedding_0309.github.io/static/css/main.7ccf7362.css",
-    "main.js": "/wedding_0309.github.io/static/js/main.2e0f65af.js",
+    "main.js": "/wedding_0309.github.io/static/js/main.dfdc6443.js",
     "static/js/787.8f58aef1.chunk.js": "/wedding_0309.github.io/static/js/787.8f58aef1.chunk.js",
     "static/media/PV3_3547.JPG": "/wedding_0309.github.io/static/media/PV3_3547.083ce5a37a6c5b8ce5d9.JPG",
     "static/media/SUITE-Regular.ttf": "/wedding_0309.github.io/static/media/SUITE-Regular.013630c91ca6dc5c2a68.ttf",
     "index.html": "/wedding_0309.github.io/index.html",
     "main.7ccf7362.css.map": "/wedding_0309.github.io/static/css/main.7ccf7362.css.map",
-    "main.2e0f65af.js.map": "/wedding_0309.github.io/static/js/main.2e0f65af.js.map",
+    "main.dfdc6443.js.map": "/wedding_0309.github.io/static/js/main.dfdc6443.js.map",
     "787.8f58aef1.chunk.js.map": "/wedding_0309.github.io/static/js/787.8f58aef1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ccf7362.css",
-    "static/js/main.2e0f65af.js"
+    "static/js/main.dfdc6443.js"
   ]
 }
