@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wedding_0309.github.io/static/css/main.7f10458d.css",
+    "main.css": "/wedding_0309.github.io/static/css/main.be75482c.css",
     "main.js": "/wedding_0309.github.io/static/js/main.5a46ffcd.js",
     "static/js/787.8f58aef1.chunk.js": "/wedding_0309.github.io/static/js/787.8f58aef1.chunk.js",
+    "static/media/부크크명조_얇은글씨.ttf": "/wedding_0309.github.io/static/media/부크크명조_얇은글씨.83845c7383b8e3df556d.ttf",
     "static/media/PV3_3547.JPG": "/wedding_0309.github.io/static/media/PV3_3547.083ce5a37a6c5b8ce5d9.JPG",
-    "static/media/SUITE-Regular.ttf": "/wedding_0309.github.io/static/media/SUITE-Regular.013630c91ca6dc5c2a68.ttf",
     "index.html": "/wedding_0309.github.io/index.html",
-    "main.7f10458d.css.map": "/wedding_0309.github.io/static/css/main.7f10458d.css.map",
+    "main.be75482c.css.map": "/wedding_0309.github.io/static/css/main.be75482c.css.map",
     "main.5a46ffcd.js.map": "/wedding_0309.github.io/static/js/main.5a46ffcd.js.map",
     "787.8f58aef1.chunk.js.map": "/wedding_0309.github.io/static/js/787.8f58aef1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f10458d.css",
+    "static/css/main.be75482c.css",
     "static/js/main.5a46ffcd.js"
   ]
 }
